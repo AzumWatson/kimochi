@@ -1,0 +1,15 @@
+{
+    "name": "Azum Watson",
+    "info": "这里是 azumWatson 的博客，由 kimcohi 框架 构建",
+    "img": "你的头像链接",
+    "github": {
+        "username": "azumWatson",
+        "repo": "blog"
+    },
+    "indpage":[
+        ["友链","/#/links"],
+        ["关于","/#/about"],
+        // ["留言板","/#/comments"],
+        ["首页","/#/"]
+    ]
+}
